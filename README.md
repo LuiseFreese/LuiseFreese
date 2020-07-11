@@ -1,6 +1,6 @@
-{
-"name": "Luise Freese",
-"location": "Germany",
+-{
+-"name": "Luise Freese",
+-"location": "Germany",
 "favoriteNumber": 42,
 "isMVP": true,
 "isDev": false,
