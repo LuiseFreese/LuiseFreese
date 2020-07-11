@@ -1,10 +1,10 @@
--{
--"name": "Luise Freese",
--"location": "Germany",
+{
+"name": "Luise Freese",
+"location": "Germany",
 "favoriteNumber": 42,
 "isMVP": true,
 "isDev": false,
-"profession": "Microsoft 365 Consultant & Power Platform Evangelist",
+"profession": "Microsoft 365 Consultant & Power Platform Advocate",
 "focus":
 [
     "strategy",
