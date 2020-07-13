@@ -1,20 +1,5 @@
-~~{~~  
-    "name": "Luise Freese",~~  
-    "location": "Germany",~~  
-    "favoriteNumber": 42,~~  
-    "isMVP": true,~~  
-    "isTechnical": "working on it",~~  
-    "profession": "Microsoft 365 Consultant",~~  
-    "focus":~~  
-    [~~  
-        "strategy",~~  
-        "art of teamwork",~~  
-        "simplifying business processes"~~  
-    ],~~  
-    "website": "www.m365princess.com",~~  
-    "twitter": "@LuiseFreese"~~  
-    }~~  
- "@LuiseFreese"
-}
+Hi 😎
 
+I am Luise, I work as a Microsoft 365 Consultant and love Power Platform. I heard, the all the kool kids now have this readme.md as their profile, so I did the same. However, if you want to learn more about me, just follow me on www.twitter.com/LuiseFreese or visit my website: www.m365princess.com
 
+See you soon :-)
