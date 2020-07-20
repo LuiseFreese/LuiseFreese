@@ -4,4 +4,4 @@ I am Luise, I work as a Microsoft 365 Consultant and love Power Platform. I hear
 
 See you soon :-)
 
-![]https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red
+![](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)
