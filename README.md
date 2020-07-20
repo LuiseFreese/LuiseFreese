@@ -6,7 +6,9 @@ By night I am a ![](https://img.shields.io/badge/%F0%9F%A5%8B%20%20kickass-lessc
 I heard, all the kool kids now have this readme.md as their profile with those badges, so I did the same. 
 However, if you want to learn more about me, 
 just follow me on ![](https://img.shields.io/badge/@LuiseFreese-twitter-blue) or ![](https://img.shields.io/badge/Luise%20on-insta-orange). 
-Please also visit ![](https://img.shields.io/badge/stickers-PimpYourOwnDevice.com-%2317A2B8)!
+Please also visit [![#pyod](https://img.shields.io/badge/stickers-PimpYourOwnDevice.com-%2317A2B8)](https://www.pimpyourowndevice.com)
 
 See you soon :-)
+
+
 
