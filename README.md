@@ -12,8 +12,12 @@ I love all things community, Power Platform and #MicrosoftGraph! You can find me
 ## Whats important to me & what's going on?
 
 ### #SharingIsCaring
-Learning right now how to contribute to Community Docs and how to use GitHub 🙈 and I am blessed to have ongoing support! 
+Contribute to Community Docs and make tech understandable
 
 ### Diversity, Inclusion and Belonging
 
 Diversity is more than just more women in tech (although this would already be a good start). To me, it's a holistic approach to include and welcome everyone. 
+
+### Build more stuff
+
+using Azure Services, Microsoft Graph, Power Platform  🚀
