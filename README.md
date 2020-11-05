@@ -1,6 +1,8 @@
 # 👋 Hey there, I am Luise!
 
-I work as an independent M365 Consultant based in Germany, but traveling the world. At least, this is what I said to introduce myself in the pre-Covid19 world. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣 besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store. I am awarded as a  Microsoft MVP Office Apps & Services and probably the only Satya-endorsed sketchnote artist in the community 😇
+I work as an independent M365 Consultant based in Germany, but traveling the world. At least, this is what I said to introduce myself in the pre-Covid19 world. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣 
+
+Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store. I am awarded as a  Microsoft MVP Office Apps & Services and probably the only Satya-endorsed sketchnote artist in the community 😇
 
 I love all things community, Power Platform and #MicrosoftGraph! You can find me 24/7 on twitter :-) Not enough? I created those labels here because all the kool kids have those: 
 
