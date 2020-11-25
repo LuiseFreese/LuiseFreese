@@ -1,10 +1,10 @@
 # 👋 Hey there, I am Luise!
 
-I work as an independent M365 Consultant based in Germany, but traveling the world. At least, this is what I said to introduce myself in the pre-Covid19 world. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣 
+I work as an independent M365 Consultant based in Germany, but traveling the world. At least, this is what I said to introduce myself in the pre-Covid19 world. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣 . You will find my blog at https://m365princess.com, and you can find me nearly 24/7 on twitter :-) 
 
 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store. I am awarded as a  Microsoft MVP Office Apps & Services and probably the only Satya-endorsed sketchnote artist in the community 😇
 
-I love all things community, Power Platform and #MicrosoftGraph! You can find me 24/7 on twitter :-) Not enough? I created those labels here because all the kool kids have those: 
+I love all things community, Power Platform and #MicrosoftGraph!  Not enough? I created those labels here because all the kool kids have those: 
 
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
 [![Luise on twitter](https://img.shields.io/badge/%40LuiseFreese-twitter-%231DA1F2)](https://www.twitter.com/LuiseFreese)
@@ -15,6 +15,9 @@ I love all things community, Power Platform and #MicrosoftGraph! You can find me
 
 ### #SharingIsCaring
 Contribute to Community Docs and make tech understandable
+
+###
+Breaking news: Everything is awesome, because I am part of the #PnP team - leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. 
 
 ### Diversity, Inclusion and Belonging
 
