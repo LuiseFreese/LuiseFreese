@@ -13,10 +13,10 @@ I love all things community, Power Platform and #MicrosoftGraph!  Not enough? I 
 
 ## Whats important to me & what's going on?
 
-### #SharingIsCaring
+### SharingIsCaring
 Contribute to Community Docs and make tech understandable
 
-###
+### PnP
 Breaking news: Everything is awesome, because I am part of the #PnP team - leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. 
 
 ### Diversity, Inclusion and Belonging
