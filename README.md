@@ -21,7 +21,7 @@ I love all things community, Power Platform and #MicrosoftGraph! Not enough? I c
 Contribute to Community Docs and make tech understandable
 
 ### Microsoft 365 PnP
-Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there!
+Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. Find awesome articles and discussion in the [Microsoft 365 PnP Community on Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog). I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there!
 
 ### Diversity, Inclusion and Belonging
 
