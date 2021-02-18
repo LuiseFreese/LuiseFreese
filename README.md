@@ -11,7 +11,9 @@
 * I love all things 
   * community
   * Power Platform and 
-  * #MicrosoftGraph! Not enough? 
+  * #MicrosoftGraph! 
+
+
 
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
 [![Luise on twitter](https://img.shields.io/badge/%40LuiseFreese-twitter-%231DA1F2)](https://www.twitter.com/LuiseFreese)
