@@ -3,7 +3,7 @@
 * I work as an independent M365 Consultant and Low Code Dev 
 * I am based in Germany, but traveling the world
 * BUMMER! IT'S COVID! I traveled the world in the pre-Covid19 world. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣.
-* You will find my blog at https://m365princess.com\
+* You will find my blog at https://m365princess.com
 * You can find me nearly 24/7 on twitter :-) 
 * Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
 * I am awarded as a Microsoft MVP Office Apps & Services
@@ -11,9 +11,9 @@
 * I love all things 
   * community
   * Power Platform and 
-  * #MicrosoftGraph! 
+  * MicrosoftGraph! 
 
-
+When I am not behind my desk, I go running, love building Lego and recently started creating PixelArt 👾
 
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
 [![Luise on twitter](https://img.shields.io/badge/%40LuiseFreese-twitter-%231DA1F2)](https://www.twitter.com/LuiseFreese)
@@ -35,5 +35,3 @@ Diversity is more than just more women in tech (although this would already be a
 ### Build more stuff
 
 using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. 
-
-When I am not behind my desk, I go running, love building Lego and recently started creating PixelArt 👾
