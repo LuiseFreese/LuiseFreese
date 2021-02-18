@@ -19,6 +19,17 @@ When I am not behind my desk, I go running, love building Lego and recently star
 [![Luise on twitter](https://img.shields.io/badge/%40LuiseFreese-twitter-%231DA1F2)](https://www.twitter.com/LuiseFreese)
 [![my MVP profile](https://img.shields.io/badge/%E2%AD%90-MVP-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5003313?fullName=Luise%20Freese)
 [![stickers on #PYOD](https://img.shields.io/badge/stickers-PimpYourOwnDevice.com-%2317A2B8)](https://www.pimpyourowndevice.com)
+![visitor counter by estruyf](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisefreese&repo=luisefreese&countColorcountColor&countColor=%FFB6C1)
+
+
+Resources
+ Readme
+License
+ MIT License
+Releases
+No releases published
+Packages
+No packages published
 
 ## Whats important to me & what's going on?
 
