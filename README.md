@@ -3,11 +3,11 @@
 * 💻 I work as an independent M365 Consultant and Low Code Dev 
 * 🌍 I am based in Germany, but traveling the world
 * 🤯 BUMMER! IT'S COVID! I traveled the world in the pre-Covid19 world. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣.
-* ✅ I am a member of the Microsoft 365 Patterns and Practices team and help people extending Microsoft 365
-* ✍ You will find my blog at https://m365princess.com where I share what I learn
-* 💯 You can find me nearly 24/7 on [twitter](https://twitter.com/LuiseFreese) :-) 
-* 💖 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
 * 🎉 I am awarded as a Microsoft MVP Office Apps & Services
+* ✅ I am a member of the [Microsoft 365 Patterns and Practices team](https://aka.ms/m365pnp) and help people extending Microsoft 365
+* ✍ You will find my blog at https://m365princess.com where I share what I learn
+* 💯 You can find me nearly 24/7 on twitter [@LuiseFreese](https://twitter.com/LuiseFreese) :-) 
+* 💖 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
 * 🎨 I am probably the only Satya-endorsed sketchnote artist in the community 😇
 * I love all things 
   * community
@@ -38,3 +38,13 @@ Diversity is more than just more women in tech (although this would already be a
 using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. 
 
 ![visitor counter by estruyf](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisefreese&repo=luisefreese&countColorcountColor&countColor=%237B1E7A)
+
+## My latest blog posts
+
+* [Should we use SharePoint REST or Microsoft Graph API in Power Automate?](https://m365princess.com/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power-automate/)
+* [How to build a FAQ chatbot for Microsoft Teams with Power Virtual Agents](https://m365princess.com/how-to-build-a-faq-chatbot-for-microsoft-teams-with-power-virtual-agents/)
+* [How to use a custom connector in Power Automate](https://m365princess.com/how-to-use-a-custom-connector-in-power-automate/)
+* [How to get started with CLI Microsoft 365 and Adaptive Cards](https://m365princess.com/how-to-get-started-with-cli-microsoft-365-and-adaptive-cards/)
+
+
+
