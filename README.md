@@ -21,6 +21,13 @@
 [![my MVP profile](https://img.shields.io/badge/%E2%AD%90-MVP-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5003313?fullName=Luise%20Freese)
 [![stickers on #PYOD](https://img.shields.io/badge/stickers-PimpYourOwnDevice.com-%2317A2B8)](https://www.pimpyourowndevice.com)
 
+## My latest blog posts
+
+* [Should we use SharePoint REST or Microsoft Graph API in Power Automate?](https://m365princess.com/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power-automate/)
+* [How to build a FAQ chatbot for Microsoft Teams with Power Virtual Agents](https://m365princess.com/how-to-build-a-faq-chatbot-for-microsoft-teams-with-power-virtual-agents/)
+* [How to use a custom connector in Power Automate](https://m365princess.com/how-to-use-a-custom-connector-in-power-automate/)
+* [How to get started with CLI Microsoft 365 and Adaptive Cards](https://m365princess.com/how-to-get-started-with-cli-microsoft-365-and-adaptive-cards/)
+
 ## Whats important to me & what's going on?
 
 ### SharingIsCaring
@@ -29,22 +36,12 @@ Contribute to Community Docs and make tech understandable
 ### Microsoft 365 PnP
 Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. Find awesome articles and discussion in the [Microsoft 365 PnP Community on Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog). I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there!
 
-### Diversity, Inclusion and Belonging
-
-Diversity is more than just more women in tech (although this would already be a good start). To me, it's a holistic approach to include and welcome everyone. 
-
 ### Build more stuff
 
 using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. 
 
 ![visitor counter by estruyf](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisefreese&repo=luisefreese&countColorcountColor&countColor=%237B1E7A)
 
-## My latest blog posts
-
-* [Should we use SharePoint REST or Microsoft Graph API in Power Automate?](https://m365princess.com/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power-automate/)
-* [How to build a FAQ chatbot for Microsoft Teams with Power Virtual Agents](https://m365princess.com/how-to-build-a-faq-chatbot-for-microsoft-teams-with-power-virtual-agents/)
-* [How to use a custom connector in Power Automate](https://m365princess.com/how-to-use-a-custom-connector-in-power-automate/)
-* [How to get started with CLI Microsoft 365 and Adaptive Cards](https://m365princess.com/how-to-get-started-with-cli-microsoft-365-and-adaptive-cards/)
 
 
 
