@@ -23,6 +23,7 @@
 
 ## My latest blog posts
 
+* [How to create a (faux) table in Adaptive Cards with Power Automate](http://m365princess.com/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/)
 * [Should we use SharePoint REST or Microsoft Graph API in Power Automate?](https://m365princess.com/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power-automate/)
 * [How to build a FAQ chatbot for Microsoft Teams with Power Virtual Agents](https://m365princess.com/how-to-build-a-faq-chatbot-for-microsoft-teams-with-power-virtual-agents/)
 * [How to use a custom connector in Power Automate](https://m365princess.com/how-to-use-a-custom-connector-in-power-automate/)
