@@ -7,9 +7,9 @@
 * ✅ I am a member of the [Microsoft 365 Patterns and Practices team](https://aka.ms/m365pnp) and help people extending Microsoft 365
 * ✍ You will find my blog at https://m365princess.com where I share what I learn
 * 💯 You can find me nearly 24/7 on twitter [@LuiseFreese](https://twitter.com/LuiseFreese) :-) 
-* 💖 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
+* 🚀 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
 * 🎨 I am probably the only Satya-endorsed sketchnote artist in the community 😇
-* I love all things 
+* 💖 I love all things 
   * community
   * Power Platform and 
   * MicrosoftGraph! 
