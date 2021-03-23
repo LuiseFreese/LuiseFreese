@@ -12,7 +12,7 @@
 * 💖 I love all things 
   * community
   * Power Platform and 
-  * MicrosoftGraph! 
+  * Microsoft Graph 🦒! 
 
 👾When I am not behind my desk, I go running, love building Lego and recently started creating PixelArt 
 
@@ -34,11 +34,16 @@
 
 ## Whats important to me & what's going on?
 
-### SharingIsCaring
-Contribute to Community Docs and make tech understandable
+### Microsoft 365 Community Docs
+I actively contribute to the Microsoft 365 Community Docs and make tech understandable
 
 ### Microsoft 365 PnP
-Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. Find awesome articles and discussion in the [Microsoft 365 PnP Community on Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog). I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there! I also joined the PnP [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) team as a maintainer, where I help new contributors getting started contributing. 
+
+Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. Find awesome articles and discussion in the [Microsoft 365 PnP Community on Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog). If you like to contribute, [please finde guidance here](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-the-microsoft-365-pnp-community/ba-p/2119096). 
+
+I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there! 
+
+I also joined the PnP [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) team as a maintainer, where I help new contributors getting started contributing. 
 
 ### Build more stuff
 
