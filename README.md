@@ -23,6 +23,9 @@
 
 ## My latest blog posts
 
+
+* [X things you should do before making an app](https://m365princess.com/x-things-you-should-do-before-making-an-app/)
+* [5 commands to try in CLI for Microsoft 365 to fall in love with it](https://m365princess.com/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with-it/)
 * [How to create a (faux) table in Adaptive Cards with Power Automate](http://m365princess.com/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/)
 * [Should we use SharePoint REST or Microsoft Graph API in Power Automate?](https://m365princess.com/should-we-use-sharepoint-rest-or-microsoft-graph-api-in-power-automate/)
 * [How to build a FAQ chatbot for Microsoft Teams with Power Virtual Agents](https://m365princess.com/how-to-build-a-faq-chatbot-for-microsoft-teams-with-power-virtual-agents/)
@@ -35,11 +38,11 @@
 Contribute to Community Docs and make tech understandable
 
 ### Microsoft 365 PnP
-Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. Find awesome articles and discussion in the [Microsoft 365 PnP Community on Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog). I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there!
+Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. Find awesome articles and discussion in the [Microsoft 365 PnP Community on Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog). I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there! I also joined the PnP [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) team as a maintainer, where I help new contributors getting started contributing. 
 
 ### Build more stuff
 
-using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. 
+using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. Currently I am working on 'The baby', my first open-source solution and a cool app using Azure Custom Vision in Logic Apps. Can't wait to tell and show more in the future! 
 
 ![visitor counter by estruyf](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisefreese&repo=luisefreese&countColorcountColor&countColor=%237B1E7A)
 
