@@ -2,7 +2,7 @@
 
 * 💻 I work as an independent M365 Consultant and Low Code Dev 
 * 🌍 I am based in Germany, but traveling the world
-* 🤯 BUMMER! IT'S COVID! I traveled the world in the pre-Covid19 world. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣.
+* 🤯 BUMMER! IT'S COVID! -I traveled the world in the pre-Covid19 phase. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣.
 * 🎉 I am awarded as a Microsoft MVP Office Apps & Services
 * ✅ I am a member of the [Microsoft 365 Patterns and Practices team](https://aka.ms/m365pnp) and help people extending Microsoft 365
 * ✍ You will find my blog at https://m365princess.com where I share what I learn
@@ -14,7 +14,7 @@
   * Power Platform and 
   * Microsoft Graph 🦒! 
 
-👾When I am not behind my desk, I go running, love building Lego and recently started creating PixelArt 
+👾 When I am not behind my desk, I go running, love building Lego and recently started creating PixelArt 
 
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
 [![Luise on twitter](https://img.shields.io/badge/%40LuiseFreese-twitter-%231DA1F2)](https://www.twitter.com/LuiseFreese)
@@ -35,7 +35,7 @@
 ## Whats important to me & what's going on?
 
 ### Microsoft 365 Community Docs
-I actively contribute to the Microsoft 365 Community Docs and make tech understandable
+I actively contribute to the Microsoft 365 Community Docs and make tech more understandable 
 
 ### Microsoft 365 PnP
 
