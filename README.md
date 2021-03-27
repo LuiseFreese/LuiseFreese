@@ -24,6 +24,7 @@
 ## My latest blog posts
 
 
+* [How to get started with Graph Explorer](https://m365princess.com/how-to-get-started-with-graph-explorer/)
 * [X things you should do before making an app](https://m365princess.com/x-things-you-should-do-before-making-an-app/)
 * [5 commands to try in CLI for Microsoft 365 to fall in love with it](https://m365princess.com/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with-it/)
 * [How to create a (faux) table in Adaptive Cards with Power Automate](http://m365princess.com/how-to-create-a-faux-table-in-adaptive-cards-with-power-automate/)
