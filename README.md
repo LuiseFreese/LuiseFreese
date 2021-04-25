@@ -28,7 +28,10 @@
 
 ## My latest blog posts
 
-
+* [How to beautify your Power Apps](https://m365princess.com/how-to-beautify-your-power-apps/)
+* [Microsoft Graph Fundamentals learning path – Module 3](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-3/)
+* [Microsoft Graph Fundamentals learning path – Module 2](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/)
+* [Microsoft Graph Fundamentals learning path – Module 1](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-1/)
 * [How to get started with Graph Explorer](https://m365princess.com/how-to-get-started-with-graph-explorer/)
 * [X things you should do before making an app](https://m365princess.com/x-things-you-should-do-before-making-an-app/)
 * [5 commands to try in CLI for Microsoft 365 to fall in love with it](https://m365princess.com/5-commands-to-try-in-cli-for-microsoft-365-to-fall-in-love-with-it/)
