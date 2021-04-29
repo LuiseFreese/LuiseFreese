@@ -14,7 +14,7 @@
   * Power Platform and 
   * Microsoft Graph 🦒! 
 
-👾 When I am not behind my desk, I go running, love building Lego and recently started creating PixelArt 
+👾 When I am not behind my desk, I go running, love building Lego and recently started creating [PixelArt](https://github.com/marcduiker/weekly-pixelart-challenge)
 
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
 [![Luise on twitter](https://img.shields.io/badge/%40LuiseFreese-twitter-%231DA1F2)](https://www.twitter.com/LuiseFreese)
