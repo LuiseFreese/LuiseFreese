@@ -16,11 +16,6 @@
   * Power Platform and 
   * Microsoft Graph 🦒! 
 
-
-| it me | link to image |
-|-------|---------------|
-|  Luise     |   ![](https://github.com/LuiseFreese/TheBaby/blob/main/media/undraw_Appreciation_re_p6rl.svg)            |
-
 👾 When I am not behind my desk, I go running, love building Lego and recently started creating [PixelArt](https://github.com/marcduiker/weekly-pixelart-challenge)
 
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
@@ -31,7 +26,6 @@
 ## On my way to become an Open Sourceress 🧙‍♀️
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisefreese&theme=neon-dark&hide_border=true&currStreakLabel=DD199D&stroke=DD199D&currStreakNum=DD199D&dates=DD199D&sideLabels=DD199D&fire=DD199D&ring=43CFDD&sideNums=43CFDD)](https://git.io/streak-stats)
-
 
 ## My latest blog posts
 
