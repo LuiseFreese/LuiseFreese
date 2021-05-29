@@ -13,9 +13,9 @@
 * 🤓 I am a full time nerd interested in all kinds of geek-stuff and automation
 * 💡 I am professional simplifyer
 * 💖 I love all things 
-  * community
   * Power Platform and 
   * Microsoft Graph 🦒! 
+  * community
 
 👾 When I am not behind my desk, I go running, love building Lego and recently started creating [PixelArt](https://github.com/marcduiker/weekly-pixelart-challenge)
 
