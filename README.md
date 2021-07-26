@@ -29,7 +29,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisefreese&theme=neon-dark&hide_border=true&currStreakLabel=DD199D&stroke=DD199D&currStreakNum=DD199D&dates=DD199D&sideLabels=DD199D&fire=DD199D&ring=43CFDD&sideNums=43CFDD)](https://git.io/streak-stats)
 
 ## My latest blog posts
-
+* [Putting the FUN into Azure FUNctions- send a friendly reminder](https://m365princess.com/putting-the-fun-into-azure-functions-the-friendly-sms-reminder/)
 * [How to beautify your Power Apps](https://m365princess.com/how-to-beautify-your-power-apps/)
 * [Microsoft Graph Fundamentals learning path – Module 3](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-3/)
 * [Microsoft Graph Fundamentals learning path – Module 2](https://m365princess.com/microsoft-graph-fundamentals-learning-path-module-2/)
