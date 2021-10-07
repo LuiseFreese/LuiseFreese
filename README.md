@@ -19,6 +19,13 @@
 
 👾 When I am not behind my desk, I go running, love building Lego and recently started creating [PixelArt](https://github.com/marcduiker/weekly-pixelart-challenge)
 
+## ProvisionGenie
+
+Together with Carmen Ysewijn, I launched [ProvisionGenie](https://github.com/ProvisionGenie/ProvisionGenie) 🧞, please have a look at it if your are into Microsoft 365, Microsoft Graph, Azure or Power Platform
+
+![ProvisionGenie header](https://github.com/ProvisionGenie/ProvisionGenie/blob/main/Docs/media/Genie_Header.png)
+
+
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
 [![Luise on twitter](https://img.shields.io/badge/%40LuiseFreese-twitter-%231DA1F2)](https://www.twitter.com/LuiseFreese)
 [![my MVP profile](https://img.shields.io/badge/%E2%AD%90-MVP-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5003313?fullName=Luise%20Freese)
@@ -29,6 +36,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisefreese&theme=neon-dark&hide_border=true&currStreakLabel=DD199D&stroke=DD199D&currStreakNum=DD199D&dates=DD199D&sideLabels=DD199D&fire=DD199D&ring=43CFDD&sideNums=43CFDD)](https://git.io/streak-stats)
 
 ## My latest blog posts
+* [ProvisionGenie - an open-source provisioning engine for Microsoft Teams](https://www.m365princess.com/blogs/2021-09-29-provisiongenie-a-teams-provisioning-engine/)
 * [Putting some more FUN into Azure Functions, Managed Identity & Microsoft Graph](https://m365princess.com/putting-some-fun-into-azure-functions-managed-identity-and-microsoft-graph/)
 * [Putting the FUN into Azure FUNctions- send a friendly reminder](https://m365princess.com/putting-the-fun-into-azure-functions-the-friendly-sms-reminder/)
 * [How to beautify your Power Apps](https://m365princess.com/how-to-beautify-your-power-apps/)
@@ -59,7 +67,7 @@ I also joined the PnP [Sharing Is Caring](https://pnp.github.io/sharing-is-carin
 
 ### Build more stuff
 
-using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. Currently I am working on 'The baby', my first open-source solution and a cool app using Azure Custom Vision in Logic Apps. Can't wait to tell and show more in the future! 
+using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. Currently I am working on [ProvisionGenie](https://github.com/ProvisionGenie/ProvisionGenie), my first open-source solution and a cool app using Azure Custom Vision in Logic Apps. Can't wait to tell and show more in the future! 
 
 ![visitor counter by estruyf](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisefreese&repo=luisefreese&countColorcountColor&countColor=%237B1E7A)
 
