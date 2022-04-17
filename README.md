@@ -6,7 +6,7 @@
 * 🎉 I am awarded as a Microsoft MVP Office Apps & Services
 * 🥑 I am a member of the [Microsoft 365 Patterns and Practices team](https://aka.ms/m365pnp) and help people extending Microsoft 365
 * 👑 You will find my blog at https://m365princess.com where I share what I learn
-* 🎙 I am a public speaker - loved to be on stage, now dealing with virtual conferences
+* 🎙 I am a public speaker - loved to be on stage, now dealing with virtual conferences - UPDATE: slowly getting back to  in-person events- YAY 🥳
 * 💯 You can find me nearly 24/7 on twitter [@LuiseFreese](https://twitter.com/LuiseFreese) :-) 
 * 🧞 I build together with [Carmen Ysewijn](https://digipersonal.com) [ProvisionGenie](https://provisiongenie.com), an open source provisioning engine for Microsoft Teams
 * 🚀 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
@@ -17,11 +17,9 @@
   * Power Platform and 
   * Microsoft Graph 🦒! 
   * community
+* 💙 Update: On a journey to learn to love Azure
 
-👾 When I am not behind my desk, I go running, love building Lego and recently started creating [PixelArt](https://github.com/marcduiker/weekly-pixelart-challenge)
-
-
-![ProvisionGenie header](https://github.com/ProvisionGenie/ProvisionGenie/blob/main/Docs/media/index/Genie_Header.png)
+👾 When I am not behind my desk, I love building Lego.
 
 
 [![my website](https://img.shields.io/badge/%F0%9F%91%B8%20Luise%20Freese-M%20365%20Princess-red)](https://www.m365princess.com)
@@ -29,11 +27,15 @@
 [![my MVP profile](https://img.shields.io/badge/%E2%AD%90-MVP-blue)](https://mvp.microsoft.com/en-us/PublicProfile/5003313?fullName=Luise%20Freese)
 [![stickers on #PYOD](https://img.shields.io/badge/stickers-PimpYourOwnDevice.com-%2317A2B8)](https://www.pimpyourowndevice.com)
 
-## On my way to become an Open Sourceress 🧙‍♀️
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisefreese&theme=neon-dark&hide_border=true&currStreakLabel=DD199D&stroke=DD199D&currStreakNum=DD199D&dates=DD199D&sideLabels=DD199D&fire=DD199D&ring=43CFDD&sideNums=43CFDD)](https://git.io/streak-stats)
 
 ## My latest blog posts
+* [how to use oh-my-posh with PnP PowerShell](https://www.m365princess.com/blogs/ohmyposh-pnp-powershell/)
+* [How to query Azure Monitor Log Analytics in Logic Apps with a Managed Identity and output results in a SharePoint list](https://www.m365princess.com/blogs/query-azure-monitor/)
+* [How to get started with deploying Azure resources with Bicep](https://www.m365princess.com/blogs/start-deploying-azure-resources-bicep/)
+* [How to be better at twitter - part 2](https://www.m365princess.com/blogs/twitter-part-2/)
+* [Get rid of Key Vault! (Making good things even better)](https://www.m365princess.com/blogs/rid-key-vault-making-good/)
+* [How to create a custom connector for your own Azure hosted API](https://www.m365princess.com/blogs/create-custom-connector-azure-hosted-api/)
+* [How to be better at twitter](https://www.m365princess.com/blogs/twitter/)
 * [be brave enough to suck at something new](https://www.m365princess.com/blogs/brave-suck/)
 * [How to move your blog from Wordpress to Hugo](https://www.m365princess.com/blogs/move-blog-wordpress-hugo/)
 * [How to deal with many to many relationships in Dataverse](https://www.m365princess.com/blogs/deal-relationships-dataverse/)
@@ -61,14 +63,12 @@ check it out at [ProvisionGenie.com](https://provisiongenie.com) if you interest
 
 ### Microsoft 365 PnP
 
-Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶- I am leading an initiative to close the gap between makers and developers and to help engage with every developer working with Power Platform. Find awesome articles and discussion in the [Microsoft 365 PnP Community on Techcommunity](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog). If you like to contribute, [please finde guidance here](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-the-microsoft-365-pnp-community/ba-p/2119096). 
-
-I own the [M365PnP Power Platform Samples](https://github.com/pnp/powerplatform-samples) repo and love to see your samples soon there! 
+Breaking news: Everything is awesome, because I am part of the #M365PnP team 🎶 - I am helping others to share their knowledge in the Microsoft 365 platform community blog.
 
 I also joined the PnP [Sharing Is Caring](https://pnp.github.io/sharing-is-caring/) team as a maintainer, where I help new contributors getting started contributing. 
 
 ### Build more stuff
 
-using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback. Currently I am working on [ProvisionGenie](https://github.com/ProvisionGenie/ProvisionGenie), my first open-source solution and a cool app using Azure Custom Vision in Logic Apps. Can't wait to tell and show more in the future! 
+using Azure Services, Microsoft Graph, Power Platform  🚀 I love to try ou new things, share my experiences and provide feedback.
 
 ![visitor counter by estruyf](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luisefreese&repo=luisefreese&countColorcountColor&countColor=%237B1E7A)
