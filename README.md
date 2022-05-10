@@ -2,11 +2,11 @@
 
 * 💻 I work as an independent M365 Consultant and Developer, working with Power Platform 
 * 🌍 I am based in Germany, but traveling the world
-* 🤯 BUMMER! IT'S COVID! -I traveled the world in the pre-Covid19 phase. Now I am at home and talk 8 hours straight into my monitor. After that, I start working 🤣.
+* 🤯 BUMMER! IT'S COVID! -I traveled the world in the pre-Covid19 phase. Luckily, the world is opening up again!
 * 🎉 I am awarded as a Microsoft MVP Office Apps & Services
 * 🥑 I am a member of the [Microsoft 365 Patterns and Practices team](https://aka.ms/m365pnp) and help people extending Microsoft 365
 * 👑 You will find my blog at https://m365princess.com where I share what I learn
-* 🎙 I am a public speaker - loved to be on stage, now dealing with virtual conferences - UPDATE: slowly getting back to  in-person events- YAY 🥳
+* 🎙 I am a public speaker - loved to be on stage, now dealing with virtual conferences - UPDATE: slowly getting back to in-person events- YAY 🥳
 * 💯 You can find me nearly 24/7 on twitter [@LuiseFreese](https://twitter.com/LuiseFreese) :-) 
 * 🧞 I build together with [Carmen Ysewijn](https://digipersonal.com) [ProvisionGenie](https://provisiongenie.com), an open source provisioning engine for Microsoft Teams
 * 🚀 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
