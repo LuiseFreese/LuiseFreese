@@ -2,24 +2,23 @@
 
 * 💻 I work as an independent M365 Consultant and Developer, working with Power Platform 
 * 🌍 I am based in Germany, but traveling the world
-* 🤯 BUMMER! IT'S COVID! -I traveled the world in the pre-Covid19 phase. Luckily, the world is opening up again!
-* 🎉 I am awarded as a Microsoft MVP Office Apps & Services
+* 🎉 I am awarded as a Microsoft MVP in M365 Development and Business Applications
 * 🥑 I am a member of the [Microsoft 365 Patterns and Practices team](https://aka.ms/m365pnp) and help people extending Microsoft 365
-* 👑 You will find my blog at https://m365princess.com where I share what I learn
-* 🎙 I am a public speaker - loved to be on stage, now dealing with virtual conferences - UPDATE: slowly getting back to in-person events- YAY 🥳
+* 👑 You will find my blog at [M365Princess.com](https://m365princess.com) where I share what I learn
+* 🎙 I am a public speaker - love to be on stage!
 * 💯 You can find me nearly 24/7 on twitter [@LuiseFreese](https://twitter.com/LuiseFreese) :-) 
-* 🧞 I build together with [Carmen Ysewijn](https://digipersonal.com) [ProvisionGenie](https://provisiongenie.com), an open source provisioning engine for Microsoft Teams
-* 🚀 Besides that, together with Elio Struyf, I run https://pyod.shop - a sticker store
+* 🚀 Besides that, together with Elio Struyf, I run [https://pimpyourowndevice.com](https://pyod.shop) - a sticker store
 * 🎨 I am probably the only Satya-endorsed sketchnote artist in the community 😇
 * 🤓 I am a full time nerd interested in all kinds of geek-stuff and automation
 * 💡 I am professional simplifyer
 * 💖 I love all things 
   * Power Platform and 
-  * Microsoft Graph 🦒! 
+  * Microsoft Graph 🦒!
+  * AI
   * community
 * 💙 Update: On a journey to learn to love Azure
 
-👾 When I am not behind my desk, I love building Lego.
+👾 When I am not behind my desk, I love to go running and building Lego (not at the same time!)
 
 ![Luise's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisefreese&show_icons=true&theme=radical)
 
