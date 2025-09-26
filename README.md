@@ -58,7 +58,7 @@
 * [Your Testing strategy is broken - Let’s fix it](https://www.m365princess.com/blogs/fix-test/)
 * [Tired of the AI hype machine](https://www.m365princess.com/blogs/tired/)
 * [Should I automate it?](https://www.m365princess.com/blogs/automate/)
-* [From duct tape to data discipline](https://www.m365princess.com/blogs/data-excellence.md/)
+* [From duct tape to data discipline](https://www.m365princess.com/blogs/data-excellence)
 * [Still running on spreadsheets: the hidden cost of outdated infrastructure](https://www.m365princess.com/blogs/mission-critical-spreadsheet/)
 * [Outsourcing your brain: cognitive offloading ](https://www.m365princess.com/blogs/cognitive-offloading/)
 * [I](https://www.m365princess.com/blogs/premium/)
