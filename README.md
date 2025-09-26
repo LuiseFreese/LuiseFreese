@@ -22,7 +22,7 @@
 
 
 ## My latest blog posts
-** [Building Azure functions that never store secrets — ever](https://www.m365princess.com/blogs/graph-mi/)
+* [Building Azure functions that never store secrets — ever](https://www.m365princess.com/blogs/graph-mi/)
 * [Going Secretless: How to ditch Client Secrets and fall in love with Federated Credentials](https://www.m365princess.com/blogs/secretless/)
 * [Introducing Mermaid to Dataverse Converter](https://www.m365princess.com/blogs/mermaid/) 
 * [Stuck in Pilot – Part 2: no foundations, no future](https://www.m365princess.com/blogs/pilot2/)
@@ -61,7 +61,7 @@
 * [From duct tape to data discipline](https://www.m365princess.com/blogs/data-excellence)
 * [Still running on spreadsheets: the hidden cost of outdated infrastructure](https://www.m365princess.com/blogs/mission-critical-spreadsheet/)
 * [Outsourcing your brain: cognitive offloading ](https://www.m365princess.com/blogs/cognitive-offloading/)
-* [I](https://www.m365princess.com/blogs/premium/)
+* [Don’t get knocked out by licensing costs](https://www.m365princess.com/blogs/premium/)
 * [Blueprint for a successful AI project](https://www.m365princess.com/blogs/ai-success/)   
 * [A hill to die on: there are no tiny changes](https://www.m365princess.com/blogs/tiny/)   
 * [No, a crash course won’t make you an AI leader](https://www.m365princess.com/blogs/ai-certificate/)
