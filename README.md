@@ -6,7 +6,7 @@
 * 🥑 I am a member of the [Microsoft 365 Patterns and Practices team](https://aka.ms/m365pnp) and help people extending Microsoft 365
 * 👑 You will find my blog at [M365Princess.com](https://m365princess.com) where I share what I learn
 * 🎙 I am a public speaker - love to be on stage!
-* 💯 Connect with me on [LinkedIn](https://linkedin.con/in/luisefreese)
+* 💯 Connect with me on [LinkedIn](https://linkedin.com/in/luisefreese)
 * 🚀 Besides that, together with Elio Struyf, I run [https://pimpyourowndevice.com](https://pyod.shop) - a sticker store
 * 🎨 I am probably the only Satya-endorsed sketchnote artist in the community
 * 🤓 I am a full time nerd interested in all kinds of geek-stuff and automation
